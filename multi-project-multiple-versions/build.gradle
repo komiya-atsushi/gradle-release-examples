@@ -3,7 +3,7 @@ buildscript {
         jcenter()
     }
     dependencies {
-        classpath 'net.researchgate:gradle-release:2.3.0'
+        classpath 'net.researchgate:gradle-release:2.3.5'
     }
 }
 
